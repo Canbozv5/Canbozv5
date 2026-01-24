@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canbozv5" alt="canbozv5" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m **Frontend Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Canbozv5](https://github.com/Canbozv5)
+- 👨‍💻 All of my projects are available at [Github/Canbozv5](https://github.com/Canbozv5)
 
 - 📫 How to reach me **canboz3460@gmail.com**
 
