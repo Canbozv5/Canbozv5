@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Can BOZ</h1>
 <h3 align="center">Jr. Front-end Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canbozv5" alt="canbozv5" /></a> </p>
-
 - 🌱 I’m **Frontend Developer**
 
 - 👨‍💻 All of my projects are available at [Github/Canbozv5](https://github.com/Canbozv5)
